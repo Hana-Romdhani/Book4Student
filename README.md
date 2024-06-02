@@ -14,8 +14,13 @@ Ce projet démontre une architecture de microservices implémentée en utilisant
 10. [Contributeurs](#contribuer)
 11. [Licence](#licence)
 
+
+
 ## Introduction
-Ce projet est un exemple d'architecture de microservices intégrant différentes technologies et bases de données. L'objectif est de montrer comment les microservices peuvent être utilisés pour construire une application évolutive et maintenable.
+
+Ce projet est un exemple d'architecture de microservices intégrant différentes technologies et bases de données. L'objectif est de montrer comment les microservices peuvent être utilisés pour construire une application évolutive et maintenable. Nous allons réaliser ce projet sur une période de 7 semaines, en mettant en œuvre les meilleures pratiques de développement logiciel et en explorant les avantages de l'approche des microservices.
+
+
 
 ## Architecture
 L'architecture du projet comprend plusieurs microservices communiquant entre eux. Chaque microservice est responsable d'une fonctionnalité spécifique et interagit avec sa propre base de données. Les services sont :
