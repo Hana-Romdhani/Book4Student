@@ -41,11 +41,6 @@ L'architecture du projet comprend plusieurs microservices communiquant entre eux
 - Node.js 14+
 - Angular CLI
 - Docker
-
-### Cloner le Répertoire
-```sh
-git clone https://github.com/Hana-Romdhani/Book4Student.git 
-cd microservice-project
 ## Déploiement avec Docker
 docker-compose build
 docker-compose push
@@ -58,3 +53,8 @@ docker-compose up
 - [azizbg1](https://github.com/azizbg1) (@azizbg1)
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
+
+### Cloner le Répertoire
+```sh
+git clone https://github.com/Hana-Romdhani/Book4Student.git 
+cd microservice-project
